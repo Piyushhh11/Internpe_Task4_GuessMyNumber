@@ -1,6 +1,6 @@
-<h1 align="center">🎮 GUESS MY NUMBER GAME 🎮
+<h1 align="center">🎮 GUESS MY NUMBER GAME 🎮</h1>
 
-### Today I Developed Guess My Number Gameusing #HTML , #CSS and #JavaScript.</h1>
+<h2 align="center"> Today I Developed Guess My Number Gameusing #HTML , #CSS and #JavaScript.</h2>
 
 ### INSTRUCTIONS
 
