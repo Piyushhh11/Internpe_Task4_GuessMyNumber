@@ -2,7 +2,7 @@
 
 <h2 align="center"> Today I Developed Guess My Number Gameusing #HTML , #CSS and #JavaScript.</h2>
 
-### INSTRUCTIONS
+<h3 align="center">INSTRUCTIONS</h3>
 
 1. Enter Your Mode i.e #Easy ,#Medium , #Hard
 ![image](https://github.com/Piyushhh11/Internpe_Task4_GuessMyNumber/assets/113534923/ecfa15d9-81bb-4b04-94fc-6fe6ec9c885c)
